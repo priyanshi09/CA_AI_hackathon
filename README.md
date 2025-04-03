@@ -2,6 +2,8 @@
 
 Welcome to the CA AI Hackathon for Public Sector! This hackathon is designed to enhance public services in California by leveraging Microsoft Azure AI technologies. We have three exciting tracks for you to participate in:
 
+![CA AI Hackathon](https://github.com/priyanshi09/CA_AI_hackathon/blob/main/Track2_VisionAI/images/CA_hackathon.jpg)
+
 ## Tracks
 
 ### Track 1: GenAI Powered Chatbots for Government
