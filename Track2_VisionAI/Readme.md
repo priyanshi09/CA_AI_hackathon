@@ -20,7 +20,6 @@ You will gain a high-level understanding of how to utilize AI technologies in vi
 
 ![Key Features](/images/keyfeatures.png)
 
-
 ### Solution accelerator architecture
 ![image](/images/DocGen_Azure_AI_Foundry_Architecture.png)
 
