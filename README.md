@@ -17,7 +17,7 @@ Discover the potential of AI agents in transforming government operations. Build
 
 ## Getting Started
 
-To get started with the hackathon, You have a few options for setting up this project.
+To get started with the hackathon, You have a few options for setting up different tracks projects. 
 
 ### Local environment
 
