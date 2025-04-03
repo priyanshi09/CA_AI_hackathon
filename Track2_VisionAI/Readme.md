@@ -18,16 +18,12 @@ You will gain a high-level understanding of how to utilize AI technologies in vi
 
 ### Key features
 
-![Key Features](/docs/images/keyfeatures.png)
+![Key Features](/images/keyfeatures.png)
 
 
 ### Solution accelerator architecture
-![image](/docs/images/DocGen_Azure_AI_Foundry_Architecture.png)
+![image](/images/DocGen_Azure_AI_Foundry_Architecture.png)
 
-<h2><img src="./docs/images/oneClickDeploy.png" width="64">
-<br/>
-QUICK DEPLOY
-</h2>
 
 ## Conclusion  
   
