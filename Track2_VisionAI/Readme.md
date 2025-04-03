@@ -18,10 +18,10 @@ You will gain a high-level understanding of how to utilize AI technologies in vi
 
 ### Key features
 
-![Key Features](/images/keyfeatures.png)
+![Key Features](https://github.com/priyanshi09/CA_AI_hackathon/blob/main/Track2_VisionAI/images/keyfeatures.png)
 
 ### Solution accelerator architecture
-![Solution architecture](/images/DocGen_Azure_AI_Foundry_Architecture.png)
+![Solution architecture](https://github.com/priyanshi09/CA_AI_hackathon/blob/main/Track2_VisionAI/images/DocGen_Azure_AI_Foundry_Architecture.png)
 
 
 ## Conclusion  
