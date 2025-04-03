@@ -10,7 +10,7 @@ In this track, you will:
   
 ## Setting Up Your Environment  
   
-To get started, we would to set up environment on Azure and willFollow the step-by-step process provided in this guide: [Chat with your data using Azure OpenAI models (AI Foundry)](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=keyless%2Ctypescript-keyless%2Cpython-new&pivots=ai-foundry-portal).  
+To get started, we would need to set up environment on Azure and will follow the step-by-step process provided in this guide: [Chat with your data using Azure OpenAI models (AI Foundry)](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=keyless%2Ctypescript-keyless%2Cpython-new&pivots=ai-foundry-portal).  
   
 ## High-Level Overview  
   
