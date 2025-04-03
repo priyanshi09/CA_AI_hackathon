@@ -42,6 +42,8 @@ Once the codespace opens (this may take several minutes), open a terminal window
 A related option is VS Code Dev Containers, which will open the project in your local VS Code using the [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers):
 
 
+## Goals
+1. **Develop AI Solution**: Develop AI assistants and applications using Azure tools to analyze, summarize, and navigate government documents, forms, videos, and audios, while automating workflows.
 2. **Learn Everything on Azure AI**: Familiarize yourself with Azure AI services by exploring Microsoft Learn modules, skilling videos, and training resources.
 3. **Join the Hackathon**: Participate in hands-on sessions, workshops, and real-time coaching led by Microsoft experts. Collaborate with professionals and create impactful solutions.
 
