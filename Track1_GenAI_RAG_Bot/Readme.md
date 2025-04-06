@@ -7,7 +7,7 @@ Welcome to Track 1 of our AI journey! In this track, we will delve into the exci
   
 In this track, you will:  
 - Set up your environment on the Azure portal.  
-- Learn how to leverage Vision AI, Audio AI, and Video AI for various applications.  
+- Learn how to leverage Azure OpenAI Service to access GPT models, and Azure AI Search for data indexing and retrieval for various applications.  
   
 ## Setting Up Your Environment  
   
